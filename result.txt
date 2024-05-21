@@ -1,0 +1,34 @@
+Unet++
+===>background:	Iou-93.51; Recall (equal to the PA)-93.75; Precision-99.73
+===>nidus:	Iou-45.14; Recall (equal to the PA)-95.44; Precision-46.13
+===> mIoU: 69.33; mPA: 94.6; Accuracy: 93.84; Dice: 72.96; Sen: 67.48; MAE: 6.16
+
+SegNet
+===>background:	Iou-96.95; Recall (equal to the PA)-97.5; Precision-99.42
+===>nidus:	Iou-62.14; Recall (equal to the PA)-89.85; Precision-66.84
+===> mIoU: 79.55; mPA: 93.67; Accuracy: 97.09; Dice: 77.97; Sen: 76.95; MAE: 2.91
+
+Deeplab v3+
+===>background:	Iou-98.26; Recall (equal to the PA)-99.05; Precision-99.20
+===>nidus:	Iou-73.3; Recall (equal to the PA)-85.69; Precision-83.53
+===> mIoU: 85.78; mPA: 92.37; Accuracy: 98.34; Dice: 83.15; Sen: 86.23; MAE: 1.66
+
+PVTFromer
+===>background:	Iou-98.6; Recall (equal to the PA)-99.6; Precision-98.99
+===>nidus:	Iou-76.44; Recall (equal to the PA)-81.93; Precision-91.94
+===> mIoU: 87.52; mPA: 90.77; Accuracy: 98.66; Dice: 86.07; Sen: 91.63; MAE: 1.34
+
+Trans Deeplab
+===>background:	Iou-97.71; Recall (equal to the PA)-98.83; Precision-98.81
+===>nidus:	Iou-80.63; Recall (equal to the PA)-82.83; Precision-98.71
+===> mIoU: 89.17; mPA: 90.83; Accuracy: 98.76; Dice: 89.47; Sen: 97.31; MAE: 1.01
+
+EGE-UNet
+===>background:	Iou-98.93; Recall (equal to the PA)-99.37; Precision-99.55
+===>nidus:	Iou-82.78; Recall (equal to the PA)-92.07; Precision-89.13
+===> mIoU: 90.85; mPA: 95.72; Accuracy: 98.98; Dice: 89.72; Sen: 88.14; MAE: 1.02
+
+MySegNet
+===>background:	Iou-99.21; Recall (equal to the PA)-99.67; Precision-99.54
+===>nidus:	Iou-86.6; Recall (equal to the PA)-91.72; Precision-93.94
+===> mIoU: 92.9; mPA: 95.7; Accuracy: 99.25; Dice: 92.48; Sen: 93.21; MAE: 0.75
