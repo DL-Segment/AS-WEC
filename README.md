@@ -2,7 +2,7 @@
 
 ## Overview
 
-<div style="text-align:center"><img src='imgs/arc.png' width=800>
+<div style="text-align:center"><img src='arc.png' width=800>
 </div>
 
 This code is mainly used for brain MRI tumor segmentation
