@@ -26,6 +26,13 @@ Copy and paste your images into data/ or data2/ folder, and:
 
     python predict.py
 
+## Contributions
+    ● We proposed Otsu Double threshold Weak-edges adaptive Detection (Otsu-WD). We twice adopt Otsu threshold segmentation method to calculate the gradient threshold of lesion edges, and formulate weak edge detection rules to realize adaptive recognition of lesion edges and other detailed features.
+
+    ● We constructed GRU-based Edge Branch model (GRU-EB). We construct a dual-branch network structure based on GRU and deep CNN, and guarantee the effective transmission of tumor edge context information through forward propagation.
+
+    ● We designed Multi-layer Feature channel Max-index fusion mechanism (MF-Max). We fuse the encoder, decoder and edge feature maps according to the index position, fully balancing the details and context information to avoid key features being obliterated.
+
 ## Testing with AS-WEC
 
     python test.py
